@@ -1,4 +1,4 @@
-# Inception 🐳
+# Inception
 
 Inception is a Docker infrastructure project that demonstrates containerization and orchestration concepts. It helps understand the following concepts: container management, Docker networking, volume persistence, service orchestration, and environment configuration.
 
